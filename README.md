@@ -1,6 +1,6 @@
-# flutterimdb
+# IMDb Flutter App
 
-A new Flutter application.
+An application built using Flutter, which fetches and displays movie info, from an opensource IMDb API.
 
 ## Getting Started
 
