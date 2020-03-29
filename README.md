@@ -1,6 +1,6 @@
 # IMDb Flutter App
 
-An application built using Flutter, which fetches and displays movie info, from an opensource IMDb API.
+An application built using Flutter, which fetches and displays movie info, by consuming an opensource IMDb API.
 
 ## Getting Started
 
